@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at (Coming soon)
 
 - 📫 How to reach me **hsong8179@gamil.com**
 
-- 📄 Know about my experiences [Coming soon](Coming soon)
 
 
 <h3 align="left">Languages and Tools:</h3>
