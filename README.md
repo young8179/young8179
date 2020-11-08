@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hsong8179@gmail.com**
 
-- 📍 I am located in Atlanta.
+
 
 
 
