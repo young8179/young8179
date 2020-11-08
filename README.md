@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=young8179&label=Profile%20views&color=0e75b6&style=flat" alt="young8179" /> </p>
 
+- 📍 I am located in Atlanta.
+
 - 🔭 I’m currently working on **something awesome**
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at (Coming soon)
 
-- 📫 How to reach me **hsong8179@gamil.com**
+- 📫 How to reach me **hsong8179@gmail.com**
+
+- 📍 I am located in Atlanta.
 
 
 
