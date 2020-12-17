@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at (Coming soon)
+- 👨‍💻 All of my projects are available at https://heeyoungsong.netlify.app/
 
 - 📫 How to reach me **hsong8179@gmail.com**
 
