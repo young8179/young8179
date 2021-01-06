@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **something awesome**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** **Redux** **MongoDB** 
 
 - 👨‍💻 All of my projects are available at https://heeyoungsong.netlify.app/
 
